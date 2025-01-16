@@ -46,8 +46,6 @@ A **real-time collaboration document editor** is a web-based application that al
 7. **Scalable Backend**:
    - Ensures performance and responsiveness, even with many simultaneous users.
 
----
-
 ### **Technologies Used**
 1. **Frontend**:  
    - **React.js**: For building the user interface with dynamic updates and state management.
@@ -65,8 +63,6 @@ A **real-time collaboration document editor** is a web-based application that al
    - **Quill.js** or **Draft.js**: For building the rich text editor.
    - **Redis**: For caching and session management.
    - **WebSockets**: For low-latency communication.
-
----
 
 ### **How It Works**
 1. **User Authentication**:
@@ -89,8 +85,6 @@ A **real-time collaboration document editor** is a web-based application that al
 6. **Real-Time Presence**:
    - The server tracks and broadcasts the presence of active users, showing who's online and what section they're editing.
 
----
-
 ### **High-Level Architecture**
 1. **Frontend**:
    - React components for UI (e.g., text editor, user list).
@@ -107,14 +101,12 @@ A **real-time collaboration document editor** is a web-based application that al
 4. **Real-Time Communication**:
    - WebSocket connection between the client and server via Socket.io.
 
----
-
 ### **Benefits**
 - **Efficiency**: Teams can collaborate without delays, boosting productivity.
 - **Scalability**: Designed to handle multiple users simultaneously.
 - **Data Security**: Protects user data with encryption and authentication.
 
 # OUTPUT
+![Image](https://github.com/user-attachments/assets/fe58cfbf-5b28-42ee-b801-20cc2112732a)
 
 
-Would you like help building this project, or do you need specific code snippets for its implementation? 😊
